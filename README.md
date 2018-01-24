@@ -49,7 +49,7 @@ npm start
 
 see the interface at http://localhost:3000
 
-[travis-image]: https://travis-ci.org/cubedro/eth-netstats.svg
-[travis-url]: https://travis-ci.org/cubedro/eth-netstats
-[dep-image]: https://david-dm.org/cubedro/eth-netstats.svg
-[dep-url]: https://david-dm.org/cubedro/eth-netstats
+[travis-image]: https://travis-ci.org/nxm/eth-netstats.svg
+[travis-url]: https://travis-ci.org/nxm/eth-netstats
+[dep-image]: https://david-dm.org/nxm/eth-netstats.svg
+[dep-url]: https://david-dm.org/nxm/eth-netstats
