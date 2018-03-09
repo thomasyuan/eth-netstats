@@ -12,8 +12,8 @@
     },
     "dependencies": {
         "body-parser": "1.18.2",
-        "chalk": "2.3.0",
-        "d3": "4.12.2",
+        "chalk": "2.3.2",
+        "d3": "4.13.0",
         "debug": "3.1.0",
         "express": "4.16.2",
         "geoip-lite": "1.2.1",
@@ -25,11 +25,11 @@
         "grunt-contrib-pug": "^1.0.0",
         "grunt-contrib-uglify": "^3.3.0",
         "pug": "",
-        "lodash": "4.17.4",
+        "lodash": "4.17.5",
         "primus": "^7.1.1",
         "primus-emit": "^1.0.0",
         "primus-spark-latency": "^0.1.1",
-        "ws": "^4.0.0"
+        "ws": "^5.0.0"
     },
     "repository": {
         "type": "git",
